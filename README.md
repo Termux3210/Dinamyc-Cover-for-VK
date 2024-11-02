@@ -1,6 +1,4 @@
-# README.md
-
-## Cover Image Generator for VK
+# Cover Image Generator for VK
 
 This project is a Python application that generates and uploads a custom cover image for a VKontakte (VK) user profile. The cover image features the current time and date over a randomly fetched background image.
 
